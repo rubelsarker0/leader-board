@@ -16,6 +16,10 @@ body {
 }
 
 .hour {
-	/* color: #ff4a60; */
 	background-color: #ff4a60;
+}
+
+.author i:hover {
+	color: #f1c40f;
+	transition: all 0.3s ease;
 }
