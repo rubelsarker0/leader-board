@@ -6,3 +6,7 @@
 	box-sizing: border-box;
 	font-family: 'Roboto', sans-serif;
 }
+
+.navbar {
+	background-color: #562eff !important;
+}
