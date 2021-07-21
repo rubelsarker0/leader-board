@@ -14,3 +14,8 @@ body {
 .navbar {
 	background-color: #562eff !important;
 }
+
+.hour {
+	/* color: #ff4a60; */
+	background-color: #ff4a60;
+}
